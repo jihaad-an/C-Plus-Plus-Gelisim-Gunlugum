@@ -6,3 +6,4 @@ C++ öğrenme sürecimde her gün yazdığım kodlar ve aldığım notlar
 | **Gün 3** | Değişkenlere değer atama arith. operations increment and dec.    | [Kodu Görüntüle 👉](./Gun-03.cpp) |
 | **Gün 4** | Control statments ve logic operatörleri ve örnekleri .  [Kodu Görüntüle 👉](./Gun-04.cpp) |
 | **Gün 5** | Control statments (switch) kullanımı . [kodu Görüntüle 👉](./Gun-05.cpp) |
+| **Gün 6** | döngüler . [kodu görüntüle 👉](./Gun-06.cpp) | 
